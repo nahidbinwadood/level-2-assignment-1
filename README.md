@@ -50,6 +50,9 @@ type Product = {
 // This will throw an error if declared again with the same name
 // type Product = { description: string }; ❌ Error
 
+````
+
+
 
 ## 📘 7. Provide an example of using **union** and **intersection** types in TypeScript.
 
